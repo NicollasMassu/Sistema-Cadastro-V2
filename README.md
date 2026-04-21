@@ -48,4 +48,4 @@ Abra o projeto em um ambiente de desenvolvimento compatível com Maven (como Int
 
 **Desenvolvido por: Nicollas Massu**
 
-[LinkedIn](https://www.linkedin.com/in/nicollasmassu/?skipRedirect=true) | [E-mail](nicollasmassu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nicollasmassu/?skipRedirect=true) | E-mail: nicollasmassu@gmail.com
