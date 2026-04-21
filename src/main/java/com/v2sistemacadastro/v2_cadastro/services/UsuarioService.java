@@ -74,7 +74,7 @@ public class UsuarioService {
         @Transactional
         public void excluir (Long id){
             if (!repository.existsById(id)) {
-                throw new ResourceNotFoundException("Não foi possível excluir: Usuário não encontrado com ID: " + id)
+                throw new ResourceNotFoundException("Não foi possível excluir: Usuário não encontrado com ID: " + id);
             }
             repository.deleteById(id);
         }
